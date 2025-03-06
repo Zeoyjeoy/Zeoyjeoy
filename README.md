@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **filzahmufidah446@gmail.com**
 
-- ⚡ Fun fact **I am sleepy**
+- ⚡ Fun fact **I am Person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
