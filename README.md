@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **filzahmufidah446@gmail.com**
 
