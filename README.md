@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filzah</h1>
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTA2enZyOXN4aXBqY2R0d3l1ajh5YW42cGo4Y3BzbXB5NHN5ZWV5cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5nvQ7fBWhPVXXOcfRI/giphy.gif" width="500px">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN3eXV3ZXgza3NiNDcyZHk0bHI0MmUyZjQ4a2piZ3NvNDE0b3B0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igndDbEYeLLWYIaXSx/giphy.gif" width="500px">
 </p>
 <h3 align="center">A passionate frontend developer</h3>
 
