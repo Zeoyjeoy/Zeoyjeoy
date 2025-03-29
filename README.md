@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjN3eXV3ZXgza3NiNDcyZHk0bHI0MmUyZjQ4a2piZ3NvNDE0b3B0ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/igndDbEYeLLWYIaXSx/giphy.gif" width="500px">
 </p>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">Passionate in frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeoyjeoy&label=Profile%20views&color=0e75b6&style=flat" alt="zeoyjeoy" /> </p>
 
